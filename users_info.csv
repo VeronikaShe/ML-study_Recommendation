@@ -136,7 +136,7 @@ User-ID;Location;Age
 135;lake mary, florida, usa;37
 136;benbrook, texas, usa;28
 137;cary, north carolina, usa;34
-138;vitoria, Éˆlava, spain;23
+138;vitoria, —ì—Ülava, spain;23
 139;fresno, california, usa;38
 140;cherry hill, new jersey, usa;21
 141;springfield, missouri, usa;23
@@ -236,7 +236,7 @@ User-ID;Location;Age
 235;woodbridge, virginia, usa;37
 236;santa cruz, california, usa;39
 237;herculaneum, missouri, usa;13
-238;cittÉˇ di castello, umbria, italy;28
+238;citt—ì—è di castello, umbria, italy;28
 239;manchester, kentucky, usa;28
 240;baltimore, maryland, usa;49
 241;watertown, massachusetts, usa;29
@@ -328,12 +328,12 @@ User-ID;Location;Age
 327;vallejo, california, usa;25
 328;brooklin, ontario, canada;37
 329;henderson, nevada, usa;47
-330;belfort, franche-comtÉ?, france;39
+330;belfort, franche-comt—ì?, france;39
 331;somerville, massachusetts, usa;26
 332;west columbia, south carolina, usa;33
 333;melbourne, victoria, australia;24
-334;gÉ?tersloh, nordrhein-westfalen, germany;48
-335;wangen, zÉ?rich, switzerland;40
+334;g—ì?tersloh, nordrhein-westfalen, germany;48
+335;wangen, z—ì?rich, switzerland;40
 336;terre haute, indiana, usa;31
 337;kansas city, missouri, usa;53
 338;pfaffenhofen an der ilm, bayern, germany;32
@@ -559,7 +559,7 @@ User-ID;Location;Age
 558;new york, new york, usa;38
 559;spring hill, florida, usa;35
 560;tigard, oregon, usa;39
-561;rudersberg, baden-wÉ?rttemberg, germany;29
+561;rudersberg, baden-w—ì?rttemberg, germany;29
 562;portland, oregon, usa;27
 563;wilmington, delaware, usa;43
 564;costa mesa, california, usa;19
@@ -682,7 +682,7 @@ User-ID;Location;Age
 681;west sacramento, california, usa;24
 682;minneapolis, minnesota, usa;32
 683;augusta, maine, usa;41
-684;asniÉres, ile de france, france;34
+684;asni—ì—Äres, ile de france, france;34
 685;weesp, noord holland, netherlands;36
 686;pinehurst, north carolina, usa;43
 687;st. john`s, ontario, canada;30
@@ -727,7 +727,7 @@ User-ID;Location;Age
 726;seattle, washington, usa;29
 727;san diego, california, usa;33
 728;astoria, new york, usa;38
-729;almada, setÉÛbal, portugal;27
+729;almada, set—ì—Ébal, portugal;27
 730;denver, colorado, usa;30
 731;montrose, california, usa;29
 732;san diego, california, usa;21
@@ -805,7 +805,7 @@ User-ID;Location;Age
 804;new castle, delaware, usa;27
 805;warrensburg, missouri, usa;33
 806;middleburg, virginia, usa;41
-807;freiburg, baden-wÉ?rttemberg, germany;46
+807;freiburg, baden-w—ì?rttemberg, germany;46
 808;romsey, hampshire, united kingdom;18
 809;maia, porto, portugal;20
 810;shanghai, shanghai, china;17
@@ -847,7 +847,7 @@ User-ID;Location;Age
 846;hong kong, hong kong, hong kong;37
 847;gloversville, new york, usa;17
 848;chisholm, minnesota, usa;23
-849;tÉ?bingen, baden-wuerttemberg, germany;33
+849;t—ì?bingen, baden-wuerttemberg, germany;33
 850;victoria, british columbia, canada;36
 851;cleveland, ohio, usa;49
 852;san diego, california, usa;25
@@ -959,7 +959,7 @@ User-ID;Location;Age
 958;brick, new jersey, usa;40
 959;san jose, california, usa;37
 960;surrey, british columbia, canada;58
-961;sant cugat del vallÉs, catalunya, spain;39
+961;sant cugat del vall—ì—Äs, catalunya, spain;39
 962;alverca, ribatejo, portugal;25
 963;bellingham, washington, usa;69
 964;rock creek, british columbia, canada;59
@@ -1083,7 +1083,7 @@ User-ID;Location;Age
 1082;pittsburgh, pennsylvania, usa;34
 1083;la mesa, california, usa;15
 1084;montreal, quebec, canada;25
-1085;zaragoza, aragÉ?n, spain;22
+1085;zaragoza, arag—ì?n, spain;22
 1086;calgary, alberta, canada;28
 1087;london, ontario, canada;23
 1088;tampa, florida, usa;27
@@ -1117,7 +1117,7 @@ User-ID;Location;Age
 1116;orlando, florida, usa;49
 1117;fort polk, louisiana, usa;31
 1118;san jose, california, usa;48
-1119;É?l mÉ?dano, santa cruz de tenerife, canary islands, spain;57
+1119;—ì?l m—ì?dano, santa cruz de tenerife, canary islands, spain;57
 1120;voorhees, new jersey, usa;43
 1121;virginia beach, virginia, usa;39
 1122;west concord, minnesota, usa;34
@@ -1710,7 +1710,7 @@ User-ID;Location;Age
 1709;west linn, ,;57
 1710;los angeles, california, usa;26
 1711;tulsa, oklahoma, usa;24
-1712;gÉ?nzburg, bayern, germany;34
+1712;g—ì?nzburg, bayern, germany;34
 1713;gum spring, virginia, usa;28
 1714;toronto, ontario, canada;21
 1715;salem, ohio, usa;24
@@ -1719,7 +1719,7 @@ User-ID;Location;Age
 1718;merville, british columbia, canada;54
 1719;barboursville,, virginia, usa;29
 1720;bonaire, georgia, usa;43
-1721;sÉ?o paulo, sÉ?o paulo, brazil;46
+1721;s—ì?o paulo, s—ì?o paulo, brazil;46
 1722;lisboa, lisboa, portugal;29
 1723;delta, british columbia, canada;31
 1724;nashville, tennessee, usa;33
@@ -1855,7 +1855,7 @@ User-ID;Location;Age
 1854;tampa, florida, usa;61
 1855;bellevue, idaho, usa;55
 1856;roanoke, virginia, usa;32
-1857;mÉ?nchen, bayern, germany;30
+1857;m—ì?nchen, bayern, germany;30
 1858;dresden, sachsen, germany;27
 1859;san antonio, texas, usa;46
 1860;hindmarsh island, south australia, australia;52
@@ -2023,7 +2023,7 @@ User-ID;Location;Age
 2022;oakland, california, usa;80
 2023;madison, indiana, usa;41
 2024;st.catharines, ontario, canada;30
-2025;mÉ?nchen, bayern, germany;26
+2025;m—ì?nchen, bayern, germany;26
 2026;tatamagouche, nova scotia, canada;49
 2027;mount airy, north carolina, usa;27
 2028;lake worth, florida, usa;46
@@ -2108,7 +2108,7 @@ User-ID;Location;Age
 2107;palmetto bay, florida, usa;36
 2108;birmingham, alabama, usa;34
 2109;ottawa, ontario, canada;27
-2110;seixal, setÉÛbal, portugal;35
+2110;seixal, set—ì—Ébal, portugal;35
 2111;st. thomas, ontario, canada;19
 2112;springfield, virginia, usa;40
 2113;vancouver, british columbia, canada;25
@@ -2125,7 +2125,7 @@ User-ID;Location;Age
 2124;dodge center, minnesota, usa;25
 2125;duisburg, nordrhein-westfalen, germany;29
 2126;kennesaw, georgia, usa;54
-2127;setÉÛbal, setÉÛbal, portugal;52
+2127;set—ì—Ébal, set—ì—Ébal, portugal;52
 2128;iowa city, iowa, usa;53
 2129;arlington, texas, usa;32
 2130;westminster, texas, usa;30
@@ -2169,7 +2169,7 @@ User-ID;Location;Age
 2168;new britain, connecticut, usa;16
 2169;portland, oregon, usa;29
 2170;arlington heights, illinois, usa;16
-2171;oliva de plasencia, cÉˆceres, spain;19
+2171;oliva de plasencia, c—ì—Üceres, spain;19
 2172;douglasville, georgia, usa;20
 2173;glendale, california, usa;29
 2174;katy, texas, usa;24
@@ -2286,7 +2286,7 @@ User-ID;Location;Age
 2285;las vegas, nevada, usa;38
 2286;lleida, catalunya, spain;35
 2287;seattle, washington, usa;44
-2288;toulouse, midi-pyrÉ?nÉ?es, france;24
+2288;toulouse, midi-pyr—ì?n—ì?es, france;24
 2289;fort worth, texas, usa;28
 2290;lake oswego, oregon, usa;42
 2291;clevelad, ohio, usa;34
@@ -2308,7 +2308,7 @@ User-ID;Location;Age
 2307;arlington, massachusetts, usa;37
 2308;ypsilanti, michigan, usa;35
 2309;west lafayette, indiana, usa;35
-2310;nÉ?rnberg, bayern, germany;39
+2310;n—ì?rnberg, bayern, germany;39
 2311;melbourne, victoria, australia;23
 2312;san antonio, texas, usa;48
 2313;byron, minnesota, usa;41
@@ -2347,7 +2347,7 @@ User-ID;Location;Age
 2346;griswold, connecticut, usa;41
 2347;alameda, california, usa;59
 2348;philadelphia, pennsylvania, usa;42
-2349;thil, rhÉ?ne-alpes, france;41
+2349;thil, rh—ì?ne-alpes, france;41
 2350;las vegas, nevada, usa;57
 2351;wilmington, north carolina, usa;33
 2352;springfield, illinois, usa;31
@@ -2422,7 +2422,7 @@ User-ID;Location;Age
 2421;myrtle beach, south carolina, usa;33
 2422;lincoln, nebraska, usa;41
 2423;southgate, michigan, usa;31
-2424;st-lÉ?gier, vaud, switzerland;56
+2424;st-l—ì?gier, vaud, switzerland;56
 2425;houston, texas, usa;37
 2426;fort carson, colorado, usa;30
 2427;leipzig, sachsen, germany;32
@@ -2643,7 +2643,7 @@ User-ID;Location;Age
 2642;hyde park, new york, usa;43
 2643;verdon, nebraska, usa;48
 2644;kuala lumpur, wilayah persekutuan, malaysia;46
-2645;algÉ?s, lisboa, portugal;41
+2645;alg—ì?s, lisboa, portugal;41
 2646;nashville, tennessee, usa;22
 2647;whitney, texas, usa;51
 2648;halifax, nova scotia, canada;35
@@ -2653,7 +2653,7 @@ User-ID;Location;Age
 2652;westmont, illinois, usa;12
 2653;amsterdam, noord holland, netherlands;31
 2654;phoenix, arizona, usa;61
-2655;lÉ?nen, nordrhein-westfalen, germany;23
+2655;l—ì?nen, nordrhein-westfalen, germany;23
 2656;hanover park, illinois, usa;50
 2657;columbus, ohio, usa;55
 2658;thunder bay, ontario, canada;22
@@ -2694,7 +2694,7 @@ User-ID;Location;Age
 2693;modesto, california, usa;31
 2694;big rapids, michigan, usa;33
 2695;midland, ontario, canada;52
-2696;jyvÉ˝skylÉ˝, keski-suomi, finland;28
+2696;jyv—ì—çskyl—ì—ç, keski-suomi, finland;28
 2697;palm springs, florida, usa;49
 2698;paris, n/a, france;27
 2699;edmonton, alberta, canada;29
@@ -2802,7 +2802,7 @@ User-ID;Location;Age
 2801;barreiro, barreiro, portugal;24
 2802;niagara falls, new york, usa;44
 2803;atlantic highlands, new jersey, usa;29
-2804;portela de sacavÉ?m, loures, portugal;25
+2804;portela de sacav—ì?m, loures, portugal;25
 2805;toronto, ontario, canada;33
 2806;ionia, michigan, usa;36
 2807;quezon city, manila, philippines;17
